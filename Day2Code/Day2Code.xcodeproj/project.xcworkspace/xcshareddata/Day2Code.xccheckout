@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A1E01BE-C661-4A3E-A27D-5B6699655007</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Day2Code</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>54DA37A9-9A0A-4387-9930-4C0A41CB0E92</key>
+		<string>https://github.com/Dorisyx/LambtonObjCCourse.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Day2Code/Day2Code.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>54DA37A9-9A0A-4387-9930-4C0A41CB0E92</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Dorisyx/LambtonObjCCourse.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>54DA37A9-9A0A-4387-9930-4C0A41CB0E92</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>54DA37A9-9A0A-4387-9930-4C0A41CB0E92</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LambtonObjCCourse</string>
+		</dict>
+	</array>
+</dict>
+</plist>
